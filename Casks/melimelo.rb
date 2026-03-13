@@ -1,6 +1,6 @@
 cask "melimelo" do
-  version "0.5-beta"
-  sha256 "2089efe17dcabae1102b55048b20af8c913e2ff42827634e8687a69a7e69c633"
+  version "0.6-beta"
+  sha256 "91749b85fd1d8faf0770a5609a86f2b4139ffdeb402b8f0e06f0d327e7804341"
 
   url "https://gbuisson.com/downloads/melimelo/MeliMelo-v#{version}-macos.zip"
 
